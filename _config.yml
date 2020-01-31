@@ -29,7 +29,7 @@ logo: logo.jpg
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: news/page:num
 
 # Header nav
 navigation_header:
@@ -37,8 +37,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: News
+  url: /news/
 
 # Footer nav
 navigation_footer:
@@ -52,5 +52,5 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      Group News
     feature_image: "https://picsum.photos/2560/600?image=866"
