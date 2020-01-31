@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: EMI Lab
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Electrochemical Materials and Interfaces Lab
 ---
 
-There isn't much going on here yet, but watch this space
+This page is under development. Come back soon!
