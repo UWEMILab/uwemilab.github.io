@@ -1,0 +1,68 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell. TEST LT was here.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell. TEST LT was here.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Welcome! This website is under development",
+    "excerpt": "\n",
+    "content": "We invite you to explore our website to meet some of the people and ideas influencing the next generation of electrochemical technologies.\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "News",
+    "excerpt": "\n",
+    "content": "fgserg\n",
+    "url": "/news/"
+  },
+  
+  {
+    "title": "People",
+    "excerpt": "\n",
+    "content": "Dan Schwartz - About the PI LINK\n",
+    "url": "/people/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "xxdgsdfg\n",
+    "url": "/publications/"
+  },
+  
+  {
+    "title": "Research",
+    "excerpt": "\n",
+    "content": "Our group current focus is on energy storage.\n",
+    "url": "/research/"
+  }
+  
+]
+

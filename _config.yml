@@ -35,8 +35,12 @@ paginate_path: news/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+- title: People
+  url: /people/
 - title: News
   url: /news/
 
