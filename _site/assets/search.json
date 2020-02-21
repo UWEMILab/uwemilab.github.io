@@ -39,36 +39,15 @@
   {
     "title": "Welcome! This website is under development",
     "excerpt": "\n",
-    "content": "We invite you to explore our website to meet some of the people and ideas influencing the next generation of electrochemical technologies.\n",
+    "content": "We use fundamental principles of electrochemical engineering to enable advancement of energy storage systems.\n\nWe invite you to explore our website to meet some of the people and ideas influencing the next generation of electrochemical technologies.\n",
     "url": "/"
   },
   
   {
     "title": "News",
     "excerpt": "\n",
-    "content": "fgserg\n",
+    "content": "We will get back to you!\n",
     "url": "/news/"
-  },
-  
-  {
-    "title": "People",
-    "excerpt": "\n",
-    "content": "Dan Schwartz - About the PI LINK\n",
-    "url": "/people/"
-  },
-  
-  {
-    "title": "Publications",
-    "excerpt": "\n",
-    "content": "xxdgsdfg\n",
-    "url": "/publications/"
-  },
-  
-  {
-    "title": "Research",
-    "excerpt": "\n",
-    "content": "Our group current focus is on energy storage.\n",
-    "url": "/research/"
   }
   
 ]

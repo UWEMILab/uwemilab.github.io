@@ -7,4 +7,4 @@ feature_text: |
   ## Updates
 ---
 
-fgserg
+We will get back to you!
