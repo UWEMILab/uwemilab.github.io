@@ -1,11 +1,11 @@
 ---
 title:
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://images.unsplash.com/photo-1495364037436-fed1ba81ad3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1510&q=80"
 feature_text: |
   ## Publications
 ---
-
+##### 2018
 
 ##### 2010   
 
@@ -15,7 +15,7 @@ Kitayaporn, S.; Hoo, J. H.; Bohringer, K. F.; Baneyx, F.; Schwartz, D.  T., Orch
 
 Zhou, W.; Schwartz, D. T.; Baneyx, F., Single-Pot Biofabrication of Zinc Sulfide Immuno-Quantum Dots. Journal of the American Chemical Society2010, 132 (13), 4731-4738.
 
-2009  
+##### 2009  
 
 Grosh, C. D.; Schwartz, D. T.; Baneyx, F., Protein-Based Control of Silver Growth Habit Using Electrochemical Deposition. Crystal Growth & Design 2009, 9 (10), 4401-4406.
 
@@ -23,7 +23,7 @@ M. Tan, J.D. Whitaker, and D.T. Schwartz, Simulation study on the use of strippa
 
 P. Cheung, J.D. Fairweather, and D.T. Schwartz, Characterization of internal wetting in polymer electrolyte membrane gas diffusion layers, Journal of Power Sources  187 487-492 (2009).
 
-2008   
+##### 2008   
 
 A. Sengupta, C.K. Thai, M.S.R Sastry, J.F. Matthaei, D.T. Schwartz, E.J Davis, and F. Baneyx, A genetic approach for controlling the binding and orientation of proteins on nanoparticles, Langmuir 24 2000-2008 (2008)
 
@@ -31,7 +31,7 @@ D.B. Allred, A. Cheng, M. Sarikaya, F. Baneyx, and D.T. Schwartz, Three-dimensio
 
 J.B. Nelson and D.T. Schwartz, Characterization of buffered electrolytes for nickel electrochemical printing, J. of the electrochemical society 155 D181-D186 (2008)
 
-2007   
+##### 2007   
 
 J.D. Fairweather, P. Cheung, J. St.-Pierre, and D.T. Schwartz, A microfluidic approach for measuring capillary pressure in PEMFC gas diffusion layers, Electrochem. Comm.  9 2340-2345 (2007).
 
@@ -49,7 +49,7 @@ A. Presenda, D.B. Allred F. Baneyx, D.T. Schwartz, M. Sarikaya, Stability of s-l
 
 D.B. Allred, M. Zin, H. Ma, M. Sarikaya, F. Baneyx A.K-y. Jen, and D.T. Schwartz, Direct nanofabrication and TEM characterization on a suite of utrathin film substrates, Thin Sol. Films 515 5341–5347 (2007).
 
-2006         
+##### 2006         
 
 X.G. Hao, Q.M. Yu, S.Y. Jiang, and D.T. Schwartz, Molecular dynamics simulation of ion selectivity traits of nickel hexacyanoferrate thin films, Trans. Nonferrous Met. Soc. China 16 897-902 (2006).
 
@@ -63,7 +63,7 @@ B.R. Lutz, J. Chen, and D.T. Schwartz, Characterizing Homogeneous Chemistry Usin
 
 J.R. Wilson, D.T. Schwartz, and S.B. Adler, Nonlinear electrochemical impedance spectroscopy for solid oxide fuel cell cathodes, Electrochim Acta 51, 1389-1402 (2006).
 
-2005              
+##### 2005              
 
 J.B. Nelson and D.T. Schwartz, "Electrochemical Printing: in situ characterization using an electrochemical quartz crystal microbalance," J. Micromech Microeng, 15  2479-84 (2005). See also the journal cover image
 
@@ -79,7 +79,7 @@ D.B. Allred, M. Sarikaya, F. Baneyx, and D.T. Schwartz, Electrochemical Nanofabr
 
 B.R. Lutz, J. Chen, and D.T. Schwartz, Microscopic steady streaming eddies created around short cylinders in a channel: Flow visualization and Stokes layer scaling, Phys Fluids 17 023601 (2005).
 
-2004             
+##### 2004             
 
 K.M. Jeerage and D.T. Schwartz, The Chalkboard: Alloy Electrodeposition, Interface 13(4), 23-24 (2004).
 
@@ -98,7 +98,7 @@ B.R. Lutz, J. Chen, and D.T. Schwartz, Microfluidics without Microfabrication, P
 
 X. Xiong, et al., Multibatch self-assembly of MEMS by electrochemcial modulation of surface energy, J. MEMS 12, 111-127 (2003).
 
-2002                  
+##### 2002                  
 
 W.A. Steen, et al., Structure of cathodically deposited nickel hexacyanoferrate thin films, Langmuir 18 7714-23 (2002).
 
@@ -111,13 +111,14 @@ K.M. Jeerage, W.A. Steen, and D.T. Schwartz, Correlating nanostructure with ion 
 Q. Yu, W.A. Steen, K.M. Jeerage, S. Jiang, and D.T. Schwartz, Structure-dependent solvent and ion  intercalation in reduced and oxidized nickel hexacyanoferrates, J. Electrochem. Soc., 149 E195-203 (2002).
 
 W. Wang,  S.D. Leith, and D.T. Schwartz, Convective-diffusive mass transfer inside complex micromolds during electrodepositon, J. MEMS, 11, 118-124 (2002).
-2001            
+
+##### 2001            
 
 W. Wang, M.R Holl, and D.T. Schwartz, Rapid prototyping of masks for through-mask electrodeposition of thick metallic components, J. Electrochem. Soc.148, C363-368 (2001).
 
 X.H. Han, G.Z. Cao, T. Pratum, D.T. Schwartz, and B. Lutz, Synthesis and Properties of Er-Doped Silica Glass by Sol-Gel Processing through Organic Complexation, J. Mat. Sci., 36, 985-93 (2001).
 
-2000         
+##### 2000         
 
 B. O’Regan, D.T. Schwartz, S.M. Zakeeruddin, and M. Grätzel, Electrodeposited nanocomposite n-p heterojunctions for solid-state dye-sensitized photovoltaics, Adv. Mat., 12, 1263-67 (2000).
 
@@ -126,7 +127,7 @@ S.M. Jeerage and D.T. Schwartz, Characterization of cathodically deposited nicke
 D.T. Schwartz and S.M. Haight, Transport and chemistry at electroactive interfaces studied using line-imaging  Raman spectroscopy, Colloid Surf. A 174, 209-219 (2000).
 S.D. Leith and D.T. Schwartz, High throughput electrodeposition of uniform NiFe micromachined components  through thick molds, J. MEMS 8, 384-92 (1999).
 
-1999           
+##### 1999           
 
 S.D. Leith and D.T. Schwartz, Through mold electrodeposition using the uniform injection cell: Workpiece and pattern scale uniformity, Electrochim. Acta, 44, 4017-27 (1999).
 
@@ -136,7 +137,7 @@ S.D. Leith and D.T. Schwartz, In-situ fabrication of sacrifical layers in electr
 
 S.D. Leith, S. Ramli, and D.T. Schwartz, Characterization of NixFe1–x (0.1≤x≤0.95) electrodeposition from a family of sulfamate-chloride electrolytes, J. Electrochem. Soc. 146 , 1431-35 (1999).
 
-1998           
+##### 1998           
 
 S.D. Leith, W. Wang, and D.T. Schwartz, Characterization of flow-induced structure in NiFe CMAs, J. Electrochem. Soc., 145 2827-33 (1998).
 
@@ -144,7 +145,7 @@ B. O'Regan and D.T. Schwartz, Large Enhancement in Photocurrent Efficiency Cause
 
 J.A. Bowman and D.T. Schwartz, High Peclet number mass transfer in a low Reynolds number acoustic streaming flow, Int. J. Heat Mass, 41 1065-74 (1998).
 
-1997         
+##### 1997         
 
 M.A. Lilga, R.J. Orth, J.H. Sukamto, S.M. Haight, and D.T. Schwartz, Metal ion separations using electrically switched ion exchange, Sep. Purif. Tech., 11 147-58 (1997).
 
@@ -156,7 +157,7 @@ J.A. Medina and D.T. Schwartz, Electrodeposition of flow-induced composition mod
 
 J.A. Medina and D.T. Schwartz, Nonlinear dynamics of limiting current in the flow-modulated uniform injection cell, J. Electrochem. Soc. 144, 155-65 (1997).
 
-1996       
+##### 1996       
 
 J.A. Medina and D.T. Schwartz, Nonlinear dynamics of modulated flow between a porous injector and an impermeable substrate, Phys. Fluids 8, 2895-2905 (1996).
 
@@ -166,7 +167,7 @@ J.A. Medina and D.T. Schwartz, Inertial oscillations in the impulsively-started 
 
 S.D. Leith and D.T. Schwartz, Flow-induced composition modulated NiFe thin films with nanometer-scale wavelengths, J. Electrochem. Soc., 143, 873-879 (1996).
 
-1995          
+##### 1995          
 
 S.M. Haight and D.T. Schwartz, In-situ imaging Raman spectroscopy of electrochemically-deposited CuSCN, J. Electrochem. Soc., 142, L156-59 (1995).
 
@@ -176,29 +177,29 @@ J.A. Medina, D.L. Sexton, and D.T. Schwartz, Steady state characterization of th
 
 J.A. Medina and D.T. Schwartz, Steady state characterization of the uniform injection cell: I. Theory, J. Electrochem. Soc. 142 451-56 (1995).
 
-1993               
+##### 1993               
 
 D.T. Schwartz, Measurements of steady axial streaming at a rotating disc with torsional oscillations, Proc.  R. Soc. Lond. A 442, 397-407 (1993).
 
 D.T. Schwartz, Experimental implementation and capabilities of Fourier transform hydrodynamic modulation  voltammetry (FTHMV), J. Electrochem. Soc. 140, 452-58 (1993).
 
-1992           
+##### 1992           
 
 T.P. Pearsall, J.C. Adams, J.N. Kidder, Jr., P.S. Williams, S.A. Chambers, J. Lach, D.T. Schwartz, and  B.Z. Nosho, Bright visible photoluminescence in thin silicon films, Thin Solid Films 222, 200-4 (1992).
 
 J.N. Kidder, Jr., P.S. Williams, T.P. Pearsall, D.T. Schwartz, and B.Z. Nosho, A comparison of light emission from stain-etch and anodic-etch silicon films, Appl. Phys. Lett. 61, 2896-98 (1992).
 
-1991         
+##### 1991         
 
 D.T. Schwartz and R.H. Muller, Oxidation films on copper in alkaline media:  Intensity modulated photoelectrochemical and Raman spectroscopy studies, Surf. Sci. 248, 349-58 (1991).
 
 D.T. Schwartz and R.H. Muller, Photoelectrochemical evidence for saturated optical absorption in electrolytic  cuprous oxide, Appl. Phys. Lett. 58, 1739-41 (1991).
 
-1990           
+##### 1990           
 
 D.T. Schwartz, T.J. Rehg, P. Stroeve, and B.G. Higgins, Fluctuating flow with mass transfer induced by a  rotating disk electrode with a superimposed time-periodic modulation, Phys. Fluids A 2, 167-77 (1990).
 
-1989           
+##### 1989           
 
 D.T. Schwartz, P. Stroeve, and B.G. Higgins, Electrodeposition of composition modulated alloys in a  fluctuating flow, AIChE J. 35, 1315-27 (1989).
 
@@ -206,10 +207,10 @@ D.T. Schwartz, Multilayered alloys induced by fluctuating flow, J. Electrochem. 
 
 D.T. Schwartz, P. Stroeve, and B.G. Higgins, Fourier transform methods in hydrodynamic modulation  voltammetry, J. Electrochem. Soc. 136, 1755-64 (1989).
 
-1988        
+##### 1988        
 
 D.T. Schwartz, Large amplitude HMV, J. Electrochem. Soc. 135, 31C-34C (1988).
 
-#### 1987        
+##### 1987        
 
 D.T. Schwartz, B.G. Higgins, P. Stroeve, and D. Borowski, Mass transfer studies in a plating cell with a  reciprocating paddle, J. Electrochem. Soc. 134, 1639-45 (1987).

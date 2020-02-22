@@ -1,7 +1,8 @@
 ---
 title:
 layout: page
-feature_image: "https://images.unsplash.com/photo-1508416163602-e4eb39645e86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1506&q=80"
+feature_image: "/images/batteries3.png"
+
 feature_text: |
  ## Research
 ---
@@ -9,7 +10,7 @@ feature_text: |
 
 Our group's current focus is on energy storage technologies.
 
-#### DIAGNOSTICS
+#### BATTERY DIAGNOSTICS
 <!-- ![EIS spectra](/images/NLEIS.png =10x) -->
 <img src="/images/NLEIS.png" alt="NLEIS spectra" width="300"/>
 
@@ -22,7 +23,7 @@ we like riding buses sustainable
 PHIL PHIL
 
 #### PHYSICS-BASED MODELING  
-fast models lithium next gen
+Physics-based battery models are useful.
 
 
 

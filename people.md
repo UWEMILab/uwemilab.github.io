@@ -1,7 +1,7 @@
 ---
 title:
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://images.unsplash.com/photo-1495909617868-3fda03e184ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1554&q=80"
 feature_text: |
   ## People
 ---
@@ -16,11 +16,11 @@ Adjunct Professor of Materials Science & Engineering
 EDUCATION  
 Ph.D. University of California, Davis 1989  
 M.S.  University of California, Davis 1985  
-B.S.   Chemical Engineering and Materials Science Department University of Minnesota, Minneapolis 1983  
+B.S.  University of Minnesota, Minneapolis 1983  
 
 
 #### GRADUATE STUDENTS  
-
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 <img src="/images/vdub.png" alt="Victor Hu" width="300"/>
 ##### Victor Hu
 Ph.D. Candidate  
@@ -31,6 +31,7 @@ B.S. Worcester Polytechnic Institute
 Ph.D. Candidate  
 B.S. Ohio State University
 
+<img src="/images/akshay.jpg" alt="Akshay Subramaniam" width="300"/>
 ##### Akshay Subramaniam  
 Ph.D. Candidate  
 M.S. Indian Institute of Technology, Bombay  
@@ -40,6 +41,7 @@ B.S. Institute of Chemical Technology, India
 Ph.D. student  
 B.S. Montana State University  
 
+<img src="/images/lteo.jpg" alt="Linnette Teo" width="300"/>
 ##### Linnette Teo  
 Ph.D. student  
 B.S. Cornell University  
@@ -58,55 +60,47 @@ B.S. University of Washington, Seattle
 
 #### ALUMNI
 
-DOCTORAL  DEGREES
-
-ADD YEAR
-
+DOCTORAL  DEGREES  
 Yanbo Qi 2019  
 Matthew D. Murbach 2018  
 Karl R. Oleson 2018  
-Trevor M. Braun 2016  
+Trevor M. Braun 2016   
 Blake Hough 2016  
 Tyler House 2013  
 IkechuKwu Nwaneshiudu 2013  
 Valerie Lieu 2012  
-
-
-J. Antonio Medina 1996
-Scott M. Haight 1997  
-Brian C. O'Regan 1998  
-Steven D. Leith 1998  
-Kavita M. Jeerage 2001  
-Weihua Wang 2002  
-William A. Steen 2002  
-Barry R. Lutz 2003  
-John D. Whitaker 2003  
-Haixai Dai 2005  
-Jian Chen 2005  
-Daniel B. Allred 2006  
-Jamie R. Wilson 2007  
 Jeffrey B. Nelson 2007  
+Jamie R. Wilson 2007  
+Daniel B. Allred 2006  
+Jian Chen 2005  
+Haixai Dai 2005  
+John D. Whitaker 2003  
+Barry R. Lutz 2003  
+William A. Steen 2002  
+Weihua Wang 2002  
+Kavita M. Jeerage 2001    
+Steven D. Leith 1998  
+Brian C. O'Regan 1998   
+Scott M. Haight 1997  
+J. Antonio Medina 1996     
+
+MASTERS  DEGREES  
+Janhavi Jogalekar 2006  
+Oludare Ogunyemi 2005  
+Derek Bezaire 2004  
+Daniel B. Allred 2003  
+Haixia Dai 2002  
+Jian Chen 2002  
+Michael J. Melvin 2002  
+Weihua Wang 2001  
+Mariea Frost 1999  
+Jeffrey A. Bowman 1999    
+Derek X. Christiansen 1995    
 
 
-MASTERS  DEGREES
-
-Derek X. Christiansen In-situ monitoring of electrochemical transport processes during electrokinetic remediation of Hanford Grout Vault soil 9/95 Fujitsu
-Jeffrey A. Bowman Mass transfer in the acoustic streaming flow near a cylindrical electrode 6/99 Mountain   Rescue
-Mariea Frost Coursework M.S. 6/99 U. of Wisc.
-Weihua Wang Coursework M.S. 12/01 UW Ph.D.
-Michael J. Melvin Coursework M.S. 3/02 Bellevue CC
-Jian Chen Coursework M.S. 8/02  UW Ph.D.
-Haixia Dai Coursework M.S. 12/02 UW Ph.D.
-Daniel B. Allred Protein templated electrodeposition 3/03 UW Ph.D.
-Derek Bezaire Microfluidic educational experiments  12/04 Crown Co.
-Oludare Ogunyemi Electrochemical Printing through colloidal crystals 5/05 Intel
-Janhavi Jogalekar Nucleation and growth modified by engineered proteins 3/06
-
-
-POSTDOCTORAL
-
-Franco Dinelli, Ph.D. Oxford University (1999)
-Timothy Johnson, Ph.D. University of Washington (2000)
-Qiuming Yu, Ph.D. Cornell University (2000)
-Jian Zhou, Ph.D. NC State (2002).
-Kavita M. Jeerage, Ph.D. University of Washington (2001).
+POSTDOCTORAL  
+Kavita M. Jeerage, Ph.D. University of Washington (2001).  
+Jian Zhou, Ph.D. NC State (2002).  
+Qiuming Yu, Ph.D. Cornell University (2000)  
+Timothy Johnson, Ph.D. University of Washington (2000)  
+Franco Dinelli, Ph.D. Oxford University (1999)  
