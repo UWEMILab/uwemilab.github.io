@@ -21,7 +21,7 @@ B.S.  University of Minnesota, Minneapolis 1983
 
 #### GRADUATE STUDENTS  
 <div style="height:25px;font-size:25px;">&nbsp;</div>
-<img src="/images/vdub.png" alt="Victor Hu" width="300"/>
+<img src="/images/vwhu.png" alt="Victor Hu" width="300"/>
 ##### Victor Hu
 Ph.D. Candidate  
 B.S. Worcester Polytechnic Institute
@@ -37,6 +37,7 @@ Ph.D. Candidate
 M.S. Indian Institute of Technology, Bombay  
 B.S. Institute of Chemical Technology, India
 
+<img src="/images/eeggleton.jpg" alt="Erica Eggleton" width="300"/>
 ##### Erica Eggleton
 Ph.D. student  
 B.S. Montana State University  
