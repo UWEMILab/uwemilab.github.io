@@ -26,7 +26,7 @@ B.S.  University of Minnesota, Minneapolis 1983
 
 <img src="/images/vwhu.png" alt="Victor Hu" width="300"/>
 {: refdef}
-<h4><center> Victor Hu  </center></h4>
+<h4><center> Victor W. Hu  </center></h4>
 <center>Ph.D. Candidate<br/>
 B.S. Worcester Polytechnic Institute  </center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
@@ -34,7 +34,7 @@ B.S. Worcester Polytechnic Institute  </center>
 
 <img src="/images/cparke.jpg" alt="Caitlin Parke" width="300"/>
 {: refdef}
-<h4><center> Caitlin Parke  </center></h4>
+<h4><center> Caitlin D. Parke  </center></h4>
 <center>Ph.D. Candidate<br/>
 B.S. Ohio State University  </center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
@@ -49,14 +49,14 @@ B.S. Institute of Chemical Technology, India</center>
 
 <img src="/images/eeggleton.jpg" alt="Erica Eggleton" width="300"/>
 {: refdef}
-<h4><center> Erica Eggleton  </center></h4>
+<h4><center> Erica E. Eggleton  </center></h4>
 <center>Ph.D. student<br/>
 B.S. Montana State University  </center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
 
 <img src="/images/lteo.jpg" alt="Linnette Teo" width="300"/>
 {: refdef}
-<h4><center> Linnette Teo  </center></h4>
+<h4><center> Linnette Q.R. Teo  </center></h4>
 <center>Ph.D. student<br/>
 B.S. Cornell University  </center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
@@ -88,11 +88,11 @@ Tyler House 2013
 IkechuKwu Nwaneshiudu 2013  
 Kenneth Faires 2013
 Valerie Lieu 2012  
-Carolynn Grosh 2011
-Sathana Kitayaporn 2011
-Shaghayegh Abbasi 2011
-Joseph Fairweather 2009
-Perry Cheung 2009
+Carolynn Grosh 2011  
+Sathana Kitayaporn 2011  
+Shaghayegh Abbasi 2011  
+Joseph Fairweather 2009  
+Perry Cheung 2009  
 Jeffrey B. Nelson 2007  
 Jamie R. Wilson 2007  
 Daniel B. Allred 2006  
@@ -109,7 +109,7 @@ Scott M. Haight 1997
 J. Antonio Medina 1996     
 
 MASTERS  DEGREES  
-Baochen Li 2019
+Baochen Li 2019  
 Janhavi Jogalekar 2006  
 Oludare Ogunyemi 2005  
 Derek Bezaire 2004  
