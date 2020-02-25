@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'UW EMILAB'
+description: ''
 permalink: pretty
 logo: "/images/logo.jpg"
 

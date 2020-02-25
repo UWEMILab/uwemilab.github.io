@@ -18,7 +18,7 @@ Our group believes that a foundational education is one that is strong in educat
 
 #### Extracurricular Activities
 
-![GSS](/images/GSS.jpg){: style="float: right"}{:width="450px"}
+![GSS](/images/GSS.JPG){: style="float: right"}{:width="450px"}
 As part of an immersive student experience, many of our group members are heavily involved in student organizations at the University of Washington. We understand that part of being a well-rounded professional also includes becoming leaders within our own community. All of our members have served as leaders in UW's Association of Chemical Engineering Graduate Students ([ACES](http://depts.washington.edu/acesche/)), Graduate and Professional Student Senate ([GPSS](http://depts.washington.edu/gpss/)), Women in Chemical Engineering ([WChE](https://www.wcheuw.com/)), and the UW Student Chapter of the Electrochemical Society ([ECS](https://students.washington.edu/essc/)). Our members have helped our student body by organizing events like the Chemical Engineering Graduate Student Symposium, and Industry Panel events.
 
 #### Data Science  
