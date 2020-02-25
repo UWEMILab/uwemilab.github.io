@@ -5,9 +5,10 @@ feature_image: "https://images.unsplash.com/photo-1495909617868-3fda03e184ef?ixl
 feature_text: |
   ## People
 ---
-#### PRINCIPAL INVESTIGATOR
+<h3><center> PRINCIPAL INVESTIGATOR  </center></h3>
 
-<img src="/images/dts.jpg" alt="Dan Schwartz" width="300"/>
+![Dan](/images/dts.jpg){: style="float: left"}{:width="300px"}
+<!--<img src="/images/dts.jpg" alt="Dan Schwartz" width="300"/>-->
 ##### Daniel T. Schwartz  
 Boeing-Sutter Professor of Chemical Engineering  
 Director, Clean Energy Institute  
@@ -18,38 +19,54 @@ Ph.D. University of California, Davis 1989
 M.S.  University of California, Davis 1985  
 B.S.  University of Minnesota, Minneapolis 1983  
 
+<div style="height:75px;font-size:25px;">&nbsp;</div>
 
-#### GRADUATE STUDENTS  
-<div style="height:25px;font-size:25px;">&nbsp;</div>
+<h3><center> GRADUATE STUDENTS  </center></h3>
+{:refdef: style="text-align: center;"}
+
 <img src="/images/vwhu.png" alt="Victor Hu" width="300"/>
-##### Victor Hu
-Ph.D. Candidate  
-B.S. Worcester Polytechnic Institute
+{: refdef}
+<h4><center> Victor Hu  </center></h4>
+<center>Ph.D. Candidate<br/>
+B.S. Worcester Polytechnic Institute  </center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
+
 
 <img src="/images/cparke.jpg" alt="Caitlin Parke" width="300"/>
-##### Caitlin Parke  
-Ph.D. Candidate  
-B.S. Ohio State University
+{: refdef}
+<h4><center> Caitlin Parke  </center></h4>
+<center>Ph.D. Candidate<br/>
+B.S. Ohio State University  </center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
 
 <img src="/images/akshay.jpg" alt="Akshay Subramaniam" width="300"/>
-##### Akshay Subramaniam  
-Ph.D. Candidate  
-M.S. Indian Institute of Technology, Bombay  
-B.S. Institute of Chemical Technology, India
+{: refdef}
+<h4><center> Akshay Subramaniam  </center></h4>
+<center>Ph.D. Candidate<br/>
+M.S. Indian Institute of Technology, Bombay<br/>
+B.S. Institute of Chemical Technology, India</center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
 
 <img src="/images/eeggleton.jpg" alt="Erica Eggleton" width="300"/>
-##### Erica Eggleton
-Ph.D. student  
-B.S. Montana State University  
+{: refdef}
+<h4><center> Erica Eggleton  </center></h4>
+<center>Ph.D. student<br/>
+B.S. Montana State University  </center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
 
 <img src="/images/lteo.jpg" alt="Linnette Teo" width="300"/>
-##### Linnette Teo  
-Ph.D. student  
-B.S. Cornell University  
+{: refdef}
+<h4><center> Linnette Teo  </center></h4>
+<center>Ph.D. student<br/>
+B.S. Cornell University  </center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
 
-##### Mihyun Kim
-Master's student  
-B.S. University of Washington, Seattle  
+<img src="/images/mkim.jpg" alt="Mihyun Kim" width="300"/>
+{: refdef}
+<h4><center> Mihyun Kim  </center></h4>
+<center>Master's student<br/>
+B.S. University of Washington, Seattle  </center>
+<div style="height:50px;font-size:25px;">&nbsp;</div>
 
 #### UNDERGRADUATE STUDENTS  
 <div style="height:25px;font-size:25px;">&nbsp;</div>
@@ -69,7 +86,13 @@ Trevor M. Braun 2016
 Blake Hough 2016  
 Tyler House 2013  
 IkechuKwu Nwaneshiudu 2013  
+Kenneth Faires 2013
 Valerie Lieu 2012  
+Carolynn Grosh 2011
+Sathana Kitayaporn 2011
+Shaghayegh Abbasi 2011
+Joseph Fairweather 2009
+Perry Cheung 2009
 Jeffrey B. Nelson 2007  
 Jamie R. Wilson 2007  
 Daniel B. Allred 2006  
@@ -86,22 +109,24 @@ Scott M. Haight 1997
 J. Antonio Medina 1996     
 
 MASTERS  DEGREES  
+Baochen Li 2019
 Janhavi Jogalekar 2006  
 Oludare Ogunyemi 2005  
 Derek Bezaire 2004  
-Daniel B. Allred 2003  
-Haixia Dai 2002  
-Jian Chen 2002  
 Michael J. Melvin 2002  
-Weihua Wang 2001  
 Mariea Frost 1999  
 Jeffrey A. Bowman 1999    
 Derek X. Christiansen 1995    
 
 
 POSTDOCTORAL  
-Kavita M. Jeerage, Ph.D. University of Washington (2001).  
-Jian Zhou, Ph.D. NC State (2002).  
+Ikechuwuku Nwaneshiudu, Ph.D. U.W. (2014)  
+Sathana Kitayaporn Ph.D. U.W. (2011)  
+Carolynn Grosch, Ph.D. U.W. (2011)  
+Jeffrey Nelson, Ph.D. U.W. (2007)  
+Min Tan, Ph.D. Brigham Young University (2004)  
+Jian Zhou, Ph.D. NC State (2002)  
+Kavita M. Jeerage, Ph.D. University of Washington (2001)  
 Qiuming Yu, Ph.D. Cornell University (2000)  
 Timothy Johnson, Ph.D. University of Washington (2000)  
 Franco Dinelli, Ph.D. Oxford University (1999)  

@@ -1,0 +1,19 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.container {
+  width: 92%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.content {
+  @include breakpoint(break-1) {
+    width: 95%;
+  }
+}
+
