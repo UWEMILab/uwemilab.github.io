@@ -6,7 +6,6 @@ feature_image: "/images/batteries3.png"
 feature_text: |
  ## Research
 ---
-### Current Research Topics
 
 Our group's current focus is on energy storage technologies.
 
@@ -17,7 +16,7 @@ Our group's current focus is on energy storage technologies.
 
 <!--<img src="/images/NLEIS.png" class="align-left" alt="NLEIS spectra" width="300"> -->
 ![NLEIS](/images/NLEIS_1x2.png){: style="float: right"}{:width="550px"}
-Electrochemical impedance spectroscopy (EIS) is a commonly used tool to help probe noninvasively probe physicochemical and degradative processes in lithium-ion batteries. Given the same hardware and equipment, a nonlinear extension could be used to gain more sensitive, information-rich signals in the form of the second-harmonic response. These responses, when analyzed in conjunction with a sophisticated physics-based model, can be used to determine changes batteries at different states-of-charge or states-of-health that previously were invisible in traditional EIS. 
+Electrochemical impedance spectroscopy (EIS) is a commonly used tool to help noninvasively probe physicochemical and degradative processes in lithium-ion batteries. Given the same hardware and equipment, a nonlinear extension could be used to gain more sensitive, information-rich signals in the form of the second-harmonic response. These responses, when analyzed in conjunction with a sophisticated physics-based model, can help determine changes in batteries at different states-of-charge or states-of-health that previously were invisible in traditional EIS. 
 {: style="clear: right"}
 
 <br/>
@@ -27,11 +26,11 @@ Electrochemical impedance spectroscopy (EIS) is a commonly used tool to help pro
 
 ![Buses](/images/bus_fleet.png){: style="float: right"}{:width="550px"}
 
-Battery-vehicle models for electrified transit fleet maintenance and route optimization. Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder Place holder  
+Large-scale vehicle fleets, such as mass transit, freight, and rideshare services are seeking to lower carbon emissions through vehicle electrification. Systems-level models that incorporate physics-based and data-driven battery models, along with vehicle dynamics equations have the potential to improve maintenance scheduling and route planning for electrified vehicle fleets.  
 
 {: style="clear: right"}
 
-<br\>
+<br/>
 
 #### POWER HARDWARE IN THE LOOP
 ![HILLP](/images/HILLP.jpg){: style="float: right"}{:width="550px"}
