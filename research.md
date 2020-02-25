@@ -7,6 +7,8 @@ feature_text: |
  ## Research
 ---
 
+## Current Research Topics
+
 Our group's current focus is on energy storage technologies.
 
 #### BATTERY DIAGNOSTICS
