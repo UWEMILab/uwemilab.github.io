@@ -61,7 +61,7 @@ B.S. Montana State University  </center>
 B.S. Cornell University  </center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
 
-<img src="/images/mkim.jpg" alt="Mihyun Kim" width="300"/>
+<img src="/images/mkim.JPG" alt="Mihyun Kim" width="300"/>
 {: refdef}
 <h4><center> Mihyun Kim  </center></h4>
 <center>Master's student<br/>
