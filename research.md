@@ -7,7 +7,7 @@ feature_text: |
  ## Research
 ---
 
-## Current Research Topics
+<h2>Current Research Topics</h2>
 
 Our group's current focus is on energy storage technologies.
 
