@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "/images/batteries3.png"
+feature_image: "/images/mt_rainier.jfif"
 
 feature_text: |
  ## Professional Development
