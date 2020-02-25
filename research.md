@@ -42,9 +42,11 @@ Hardware-in-the-loop (HIL) simulation allows real-world tests for cells to batte
 <br/>
 
 #### PHYSICS-BASED MODELING  
-Placeholder
+![Lithium Sulfur](/images/li_s.png){: style="float: right"}{:width="550px"}
 
+As the energy requirements for electric vehicles and aircraft increase, lithium ion batteries will no longer be able to deliver the necessary energy density. Lithium sulfur batteries are a promising next-generation battery chemistry that could deliver 2-3 times the energy density of lithium ion. Our research on physics-based modeling of next-generation batteries gives insight into the whole-cell performance. The models allow for a better understanding of the internal states of the battery under different operating conditions, which can inform design or usage decisions. Utilizing proper mathematical techniques to lump a 1D lithium sulfur model, we are able to significantly reduce computational time and increase robustness of the solution, which is vital in parameter estimation and design.
 
+<br/>
 
 ## Past Projects
 
