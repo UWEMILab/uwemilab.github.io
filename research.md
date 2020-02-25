@@ -6,7 +6,7 @@ feature_image: "/images/batteries3.png"
 feature_text: |
  ## Research
 ---
-## Current Research Topics
+### Current Research Topics
 
 Our group's current focus is on energy storage technologies.
 
