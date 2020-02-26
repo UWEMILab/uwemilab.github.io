@@ -9,7 +9,7 @@ feature_text: |
 
 <h2>Current Research Topics</h2>
 
-Our group's current focus is on energy conversion, storage, and manufacturing technologies.
+Our group’s current focus is on electrochemical energy conversion and storage, as well as electrodeposition-based manufacturing.  
 
 #### BATTERY DIAGNOSTICS
 <!-- ![EIS spectra](/images/NLEIS.png =10x) -->
@@ -18,7 +18,7 @@ Our group's current focus is on energy conversion, storage, and manufacturing te
 
 <!--<img src="/images/NLEIS.png" class="align-left" alt="NLEIS spectra" width="300"> -->
 ![NLEIS](/images/NLEIS_1x2.png){: style="float: right"}{:width="550px"}
-Electrochemical impedance spectroscopy (EIS) is a commonly used tool to help noninvasively probe physicochemical and degradative processes in lithium-ion batteries. Given the same hardware and equipment, a nonlinear extension could be used to gain more sensitive, information-rich signals in the form of the second-harmonic response. These responses, when analyzed in conjunction with a sophisticated physics-based model, can help determine changes in batteries at different states-of-charge or states-of-health that previously were invisible in traditional EIS. 
+Electrochemical impedance spectroscopy (EIS) is a commonly used tool for noninvasively probing physicochemical and degradative processes in batteries and other electrochemical systems. Using a commercial EIS instrument, we have developed the theory and experimental approach for extracting and interpreting the information-rich second-harmonic nonlinear EIS (NLEIS) response. The combination of physics-based models and second harmonic NLEIS signals illuminates new physics in batteries, most prominently, the  how charge transfer symmetry depends on battery states-of-charge and degradation.  
 {: style="clear: right"}
 
 <br/>
@@ -37,7 +37,7 @@ Large-scale vehicle fleets, such as mass transit, freight, and rideshare service
 #### POWER HARDWARE IN THE LOOP
 ![HILLP](/images/HILLP.jpg){: style="float: right"}{:width="550px"}
 
-Hardware-in-the-loop (HIL) simulation allows real-world tests for cells to battery packs available at a lower cost with high reproducibility by setting a virtual test bench operating in real-time. This simulation-based research will allow real-time prediction on the possible power output of battery packs at different life stages which will be used to predict the feasibility of different battery pack models.
+Our 30 kW, 400 V Opal RT power-hardware-in-the-loop (PHIL) system is a flexible platform for real-time emulation or testing of high power battery modules, packs, or systems. Battery emulation involves running real-time battery models on the Opal RT to power a physical device such as an electric motor and its controller undergoing a dynamic load.  Alternatively, a real physical battery module or pack can be attached to the Opal RT and be evaluated under a simulated load that corresponding to a testing cycle (such as an real-time computed power demand from a motor and controller undergoing an urban drive cycle). This approach is a low cost way to do system design and evaluation.
 
 <br/>
 

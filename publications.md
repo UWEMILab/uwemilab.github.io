@@ -6,10 +6,16 @@ feature_text: |
   ## Publications
 ---
 ##### 2019
+Schwartz, D. T., Haegel, N. M., Sinars, D., Green, J., & Northen, T. R., Attracting and Retaining Top Scientists and Engineers at US National Laboratories and Universities: Listening to the Next Generation. Electrochem. Soc. Interface Fall 2019 28(3): 34-36 (2019)
 
-Oleson, K. R. & Schwartz, D. T. Douglas-fir extractives inhibit saccharification. Bioresource Technology Reports 5, 335–338 (2019).  
+Oleson, K. R. & Schwartz, D. T., Douglas-fir extractives inhibit saccharification. Bioresource Technology Reports 5, 335–338 (2019).  
 
-Braun, T. M. & Schwartz, D. T. Exploring the Kinetic and Thermodynamic Relationship of Charge Transfer Reactions Used in Localized Electrodeposition and Patterning in a Scanning Bipolar Cell. Frontiers in Chemistry 7, (2019).  
+Braun, T. M. & Schwartz, D. T., Exploring the Kinetic and Thermodynamic Relationship of Charge Transfer Reactions Used in Localized Electrodeposition and Patterning in a Scanning Bipolar Cell. Frontiers in Chemistry 7, (2019).  
+
+Schwartz, D. T., Murbach, M. D., Beck, D. AC., ECS in the Era of Data Science. Electrochem. Soc. Interface Spring 2019 28(1): 45-46, (2019).
+
+Murbach, M. D., Schwartz, D. T., Open Software and Datasets for the Analysis of Electrochemical Impedance Spectra. Electrochem. Soc. Interface Spring 2019 28(1): 51-54, (2019). 
+
 
 ##### 2018  
 
@@ -19,7 +25,7 @@ Murbach, M. D. & Schwartz, D. T., Analysis of Li-Ion Battery Electrochemical Imp
 
 Murbach, M. D., Hu, V. W. & Schwartz, D. T., Nonlinear Electrochemical Impedance Spectroscopy of Lithium-Ion Batteries: Experimental Approach, Analysis, and Initial Findings. J. Electrochem. Soc. 165, A2758–A2765 (2018).  
 
-Pathak, M, Murbach, M. D, Pathak, C, Jang, T.; Qi, Y.; Schwartz, D. T. & Subramanian, V. R., Fast Impedance Simulation of Lithium-Ion Batteries with Pseudo-Two Dimensional Electrochemical Models. J. Electrochem. Soc. 165, A1324-A1337 (2018).  
+Pathak, M, Murbach, M. D, Pathak, C, Jang, T., Qi, Y., Schwartz, D. T. & Subramanian, V. R., Fast Impedance Simulation of Lithium-Ion Batteries with Pseudo-Two Dimensional Electrochemical Models. J. Electrochem. Soc. 165, A1324-A1337 (2018).  
 
 
 ##### 2017  
@@ -45,6 +51,8 @@ Braun, T. M., Schwartz, D. T., Remote control electrodeposition: principles for 
 Oleson, K. R. & Schwartz, D. T. Extractives in Douglas-fir forestry residue and considerations for biofuel production. Phytochemistry Reviews 15, 985–1008 (2016).  
 
 Braun, T. M., Schwartz, D. T., Bipolar Electrochemical Displacement: A New Phenomenon with Implications for Self‐Limiting Materials Patterning. ChemElectroChem. 3 441-449 (2016).  
+
+Braun, T. M., & Schwartz, D. T., The Emerging Role of Electrodeposition in Additive Manufacturing Featured Articles. Electrochem. Soc. Interface Spring 2016 25(1): 69-73 (2016).
 
 
 ##### 2010   
