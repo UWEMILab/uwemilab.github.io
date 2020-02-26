@@ -10,7 +10,7 @@ feature_text: |
 
 {:refdef: style="text-align: center;"}
 
-We use fundamental principles of electrochemical engineering to enable advancement of energy conversion and storage systems. We invite you to explore our website to meet some of the people and ideas influencing the next generation of electrochemical technologies. 
+We use fundamental principles of electrochemical engineering to enable advancements in energy conversion and storage, as well as electrodeposition-based manufacturing. We invite you to explore our website to meet some of the people and ideas influencing the next generation of electrochemical technologies.
 
 <img src="/images/collage.jpg" alt="Group Collage" width="1200"/>
 {: refdef}
