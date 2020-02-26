@@ -1646,3 +1646,12 @@ pre code {
 .typeset pre {
   white-space: pre;
   overflow-x: scroll; }
+
+.container {
+  width: 92%;
+  max-width: 1600px;
+  margin: 0 auto; }
+
+@media screen and (min-width: 40em) {
+  .content {
+    width: 95%; } }

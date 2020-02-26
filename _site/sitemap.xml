@@ -23,6 +23,9 @@
 <loc>http://localhost:4000/people/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/professional_development/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>

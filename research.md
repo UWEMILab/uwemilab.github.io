@@ -18,7 +18,7 @@ Our group’s current focus is on electrochemical energy conversion and storage,
 
 <!--<img src="/images/NLEIS.png" class="align-left" alt="NLEIS spectra" width="300"> -->
 ![NLEIS](/images/NLEIS_1x2.png){: style="float: right"}{:width="550px"}
-Electrochemical impedance spectroscopy (EIS) is a commonly used tool for noninvasively probing physicochemical and degradative processes in batteries and other electrochemical systems. Using a commercial EIS instrument, we have developed the theory and experimental approach for extracting and interpreting the information-rich second-harmonic nonlinear EIS (NLEIS) response. The combination of physics-based models and second harmonic NLEIS signals illuminates new physics in batteries, most prominently, the  how charge transfer symmetry depends on battery states-of-charge and degradation.  
+Electrochemical impedance spectroscopy (EIS) is a commonly used tool for noninvasively probing physicochemical and degradative processes in batteries and other electrochemical systems. Using a commercial EIS instrument, we have developed the theory and experimental approach for extracting and interpreting the information-rich second-harmonic nonlinear EIS (NLEIS) response. The combination of physics-based models and second harmonic NLEIS signals illuminates new physics in batteries, most prominently, how charge transfer symmetry depends on battery states-of-charge and degradation.  
 {: style="clear: right"}
 
 <br/>
@@ -37,7 +37,7 @@ Large-scale vehicle fleets, such as mass transit, freight, and rideshare service
 #### POWER HARDWARE IN THE LOOP
 ![HILLP](/images/HILLP.jpg){: style="float: right"}{:width="550px"}
 
-Our 30 kW, 400 V Opal RT power-hardware-in-the-loop (PHIL) system is a flexible platform for real-time emulation or testing of high power battery modules, packs, or systems. Battery emulation involves running real-time battery models on the Opal RT to power a physical device such as an electric motor and its controller undergoing a dynamic load.  Alternatively, a real physical battery module or pack can be attached to the Opal RT and be evaluated under a simulated load that corresponding to a testing cycle (such as an real-time computed power demand from a motor and controller undergoing an urban drive cycle). This approach is a low cost way to do system design and evaluation.
+Our 30 kW, 400 V Opal RT power-hardware-in-the-loop (PHIL) system is a flexible platform for real-time emulation or testing of high power battery modules, packs, or systems. Battery emulation involves running real-time battery models on the Opal RT to power a physical device such as an electric motor and its controller undergoing a dynamic load.  Alternatively, a real physical battery module or pack can be attached to the Opal RT and be evaluated under a simulated load that corresponds to a testing cycle (such as the real-time computed power demand from a motor and controller undergoing an urban drive cycle). This approach is a low cost way to do system design and evaluation.
 
 <br/>
 
