@@ -31,9 +31,9 @@ Participants include:
 - Linnette Teo
 - Mihyun Kim  
 
-#### Torrence Foundation Tech Due Diligence Program
+#### Torrance Foundation Tech Due Diligence Program
 
-Students in the [Torrence Foundation Tech Due Dilligence program](https://www.cei.washington.edu/training/torrance-tech-due-diligence-program/) gain the unique experience of being analysts for E8 Angels - a member organization of private, accredited angel investors focused on early stage cleantech companies. Responsibilities include participation in the pre-screening process and a deeper dive by being a member of a due diligence team. This is a great opportunity for students to gain insight into investor perspectives and the startup funding process, while leveraging their scientific knowledge to provide valuable advice as a technology consultant.  
+Students in the [Torrance Foundation Tech Due Dilligence program](https://www.cei.washington.edu/training/torrance-tech-due-diligence-program/) gain the unique experience of being analysts for E8 Angels - a member organization of private, accredited angel investors focused on early stage cleantech companies. Responsibilities include participation in the pre-screening process and a deeper dive by being a member of a due diligence team. This is a great opportunity for students to gain insight into investor perspectives and the startup funding process, while leveraging their scientific knowledge to provide valuable advice as a technology consultant.  
 
 Participants include:
 - Caitlin Parke
