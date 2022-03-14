@@ -37,29 +37,6 @@ B.S. Worcester Polytechnic Institute <br/>
 <a href="https://github.com/vwhu">GitHub</a></center>
 <div style="height:50px;font-size:25px;">&nbsp;</div>
 
-
-<img src="/images/cparke.jpg" alt="Caitlin Parke" width="300"/>
-{: refdef}
-<h4><center> Caitlin D. Parke  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Ph.D. Candidate<br/>
-B.S. Ohio State University <br/>
-Co-Advised with <a href="http://www.me.utexas.edu/faculty/faculty-directory/subramanian">Prof. Venkat Subramanian</a><br/>
-<a href="https://www.linkedin.com/in/caitlin-parke-80a559a9/">LinkedIn</a> | 
-<a href="https://github.com/parkec3">GitHub</a></center>
-<div style="height:50px;font-size:25px;">&nbsp;</div>
-
-<img src="/images/akshay.jpg" alt="Akshay Subramaniam" width="300"/>
-{: refdef}
-<h4><center> Akshay Subramaniam  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Ph.D. Candidate<br/>
-M.S. Indian Institute of Technology, Bombay<br/>
-B.S. Institute of Chemical Technology, India <br/>
-Co-Advised with <a href="http://www.me.utexas.edu/faculty/faculty-directory/subramanian">Prof. Venkat Subramanian</a><br/>
-<a href="https://www.linkedin.com/in/akshays46/">LinkedIn</a></center>
-<div style="height:50px;font-size:25px;">&nbsp;</div>
-
 <img src="/images/eeggleton.jpg" alt="Erica Eggleton" width="300"/>
 {: refdef}
 <h4><center> Erica E. Eggleton  </center></h4>
@@ -85,27 +62,22 @@ Co-Advised with <a href="http://www.me.utexas.edu/faculty/faculty-directory/subr
 
 <div style="height:50px;font-size:25px;">&nbsp;</div>
 
-<img src="/images/mkim.JPG" alt="Mihyun Kim" width="300"/>
-{: refdef}
-<h4><center> Mihyun Kim  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Master's student<br/>
-B.S. University of Washington, Seattle<br/>
-<a href="https://www.linkedin.com/in/mihyun-kim-2017/">LinkedIn</a> |
-<a href="https://github.com/">GitHub</a></center>
-<div style="height:50px;font-size:25px;">&nbsp;</div>
 
 #### UNDERGRADUATE STUDENTS  
 <div style="height:25px;font-size:25px;">&nbsp;</div>
-##### Lynna Truong  
+##### Sebastian Peck  
 <div style="height:10px;font-size:10px;">&nbsp;</div>
-##### Jason Kuo    
+##### McCrae Leith 
+<div style="height:10px;font-size:10px;">&nbsp;</div>
+##### Manoli Tramountanas    
 <div style="height:35px;font-size:35px;">&nbsp;</div>
 
 
 #### ALUMNI
 
-DOCTORAL  DEGREES  
+DOCTORAL  DEGREES 
+Akshay Subramaniam 2021
+Caitlin D. Parke 2021
 Yanbo Qi 2019  
 Matthew D. Murbach 2018  
 Karl R. Oleson 2018  
@@ -136,6 +108,7 @@ Scott M. Haight 1997
 J. Antonio Medina 1996     
 
 MASTERS  DEGREES  
+Mihyun Kim 2020
 Baochen Li 2019  
 Maitri Uppaluri 2019  
 Yusong Liu 2019  
