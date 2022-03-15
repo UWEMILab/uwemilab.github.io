@@ -75,9 +75,9 @@ Co-Advised with <a href="http://www.me.utexas.edu/faculty/faculty-directory/subr
 
 #### ALUMNI
 
-DOCTORAL  DEGREES 
-Akshay Subramaniam 2021
-Caitlin D. Parke 2021
+DOCTORAL  DEGREES   
+Akshay Subramaniam 2021  
+Caitlin D. Parke 2021  
 Yanbo Qi 2019  
 Matthew D. Murbach 2018  
 Karl R. Oleson 2018  
@@ -108,7 +108,7 @@ Scott M. Haight 1997
 J. Antonio Medina 1996     
 
 MASTERS  DEGREES  
-Mihyun Kim 2020
+Mihyun Kim 2020  
 Baochen Li 2019  
 Maitri Uppaluri 2019  
 Yusong Liu 2019  
