@@ -9,7 +9,7 @@ feature_text: |
 
 <h2>Current Research Topics</h2>
 
-Our group’s current focus is on electrochemical energy conversion and storage, as well as electrodeposition-based manufacturing.  
+Our group uses electrochemical engineering fundamentals to advance energy conversion and storage.  
 
 #### BATTERY DIAGNOSTICS
 <!-- ![EIS spectra](/images/NLEIS.png =10x) -->
@@ -34,17 +34,10 @@ Large-scale vehicle fleets, such as mass transit, freight, and rideshare service
 
 <br/>
 
-#### POWER HARDWARE IN THE LOOP
-![HILLP](/images/HILLP.jpg){: style="float: right"}{:width="550px"}
+#### PHYSICS-BASED MODEL ALIGNMENT WITH EXPERIMENTS  
+![Lithium Sulfur](/images/li_s.png){: style="float: right"}{:width="400px"}
 
-Our 30 kW, 400 V Opal RT power-hardware-in-the-loop (PHIL) system is a flexible platform for real-time emulation or testing of high power battery modules, packs, or systems. Battery emulation involves running real-time battery models on the Opal RT to power a physical device such as an electric motor and its controller undergoing a dynamic load.  Alternatively, a real physical battery module or pack can be attached to the Opal RT and be evaluated under a simulated load that corresponds to a testing cycle (such as the real-time computed power demand from a motor and controller undergoing an urban drive cycle). This approach is a low cost way to do system design and evaluation.
-
-<br/>
-
-#### PHYSICS-BASED MODELING  
-![Lithium Sulfur](/images/li_s.png){: style="float: right"}{:width="550px"}
-
-As the energy requirements for electric vehicles and aircraft increase, lithium ion batteries will no longer be able to deliver the necessary energy density. Lithium sulfur and lithium metal batteries are promising next-generation battery chemistries that could deliver 2-3 times the energy density of lithium ion. Leveraging expertise and models from the [Subramanian group at UT Austin](http://sites.utexas.edu/maple/), our research on computationally efficient physics-based modeling of next-generation batteries gives insight into the whole-cell performance. The models allow for a better understanding of the internal states of the battery under different operating conditions, which can inform design or usage decisions.
+As the energy requirements for electric vehicles and aircraft increase, lithium ion batteries will no longer be able to deliver the necessary energy density. Lithium sulfur and lithium metal batteries are promising next-generation battery chemistries that could deliver 2-3 times the energy density of lithium ion. The models allow for a better understanding of the internal states of the battery under different operating conditions, which can inform design or usage decisions.
 
 <br/>
 
