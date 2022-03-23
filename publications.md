@@ -5,6 +5,21 @@ feature_image: "https://images.unsplash.com/photo-1495364037436-fed1ba81ad3e?ixl
 feature_text: |
   ## Publications
 ---
+##### 2022
+Hu, V. W. & Schwartz, D. T., Low Error Estimation of Half-Cell Thermodynamic Parameters from Whole-Cell Li-Ion Battery Experiments: Physics-Based Model Formulation, Experimental Demonstration, and an Open Software Tool. J. Electrochem. Soc. (2022), [doi: 10.1149/1945-7111/ac5a1a/meta](https://iopscience.iop.org/article/10.1149/1945-7111/ac5a1a/meta)
+
+
+##### 2021
+Parke, C. D., Subramaniam, A., Subramanian, V. R., Schwartz, D. T., Realigning the Chemistry and Parameterization of Lithium-Sulfur Battery Models to Accommodate Emerging Experimental Evidence and Cell Configurations. ChemElectroChem, 8,  1098–1106 (2021), [doi: 10.1002/celc.202001575](doi.org/10.1002/celc.202001575)
+
+
+Teo, L., Schwartz, D. T., Subramanian, V. R., Dynamic Electrochemical Impedance Spectroscopy of Lithium-ion Batteries: Revealing Underlying Physics through Efficient Joint Time-Frequency Modeling. J. Electrochem. Soc. 168, 010526 (2021), [doi:10.1149/1945-7111/abda04](https://iopscience.iop.org/article/10.1149/1945-7111/abda04/meta)
+
+Parke, C. D., Teo, L., Schwartz, D. T., Subramanian, V. R., Progress on continuum modeling of lithium–sulfur batteries. Sustainable Energy Fuels, 5, 5946-5966 (2021), [doi: 10.1039/D1SE01090E](https://doi.org/10.1039/D1SE01090E)
+
+##### 2020
+Parke, C. D., Subramaniam, A., Kolluri, S., Schwartz, D. T., Subramanian, V. R., An Efficient Electrochemical Tanks-in-Series Model for Lithium Sulfur Batteries. J. Electrochem. Soc. 167, 163503 (2020), [doi: 10.1149/1945-7111/abcc30](https://doi.org/10.1149/1945-7111/abcc30)
+
 ##### 2019
 Schwartz, D. T., Haegel, N. M., Sinars, D., Green, J., & Northen, T. R., Attracting and Retaining Top Scientists and Engineers at US National Laboratories and Universities: Listening to the Next Generation. Electrochem. Soc. Interface Fall 2019 28(3): 34-36 (2019)
 
