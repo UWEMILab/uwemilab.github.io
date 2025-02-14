@@ -19,7 +19,7 @@ Ph.D. University of California, Davis 1989
 M.S.  University of California, Davis 1985  
 B.S.  University of Minnesota, Twin Cities 1983  
 
-[LinkedIn](https://www.linkedin.com/in/dt-schwartz/) \| [X](https://twitter.com/dt_schwartz)
+[LinkedIn](https://www.linkedin.com/in/dt-schwartz/) \| [X](https://twitter.com/dt_schwartz) \| [dts@uw.edu](mailto:dts@uw.edu)
 
 <div style="height:50px;font-size:50px;">&nbsp;</div>
 
