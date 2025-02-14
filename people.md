@@ -24,7 +24,7 @@ B.S.  University of Minnesota, Twin Cities 1983
 <div style="height:50px;font-size:50px;">&nbsp;</div>
 
 <div style="text-align: center;">
-    <h3>POST DOCTORAL</h3>
+    <h3>POSTDOCTORAL</h3>
     <h4>Rebecca Vincent</h4>
 </div>
 
@@ -33,7 +33,7 @@ B.S.  University of Minnesota, Twin Cities 1983
     Ph.D. University of California, Santa Barbara 2023<br/>
     B.S. Cornell University 2018<br/>
     Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/lilo-pozzo" style="text-decoration: none;">Prof. Lilo Pozzo</a> and <a href="https://www.me.washington.edu/facultyfinder/jie-xiao" style="text-decoration: none;">Prof. Jie Xiao</a><br/>
-    <a href="https://www.linkedin.com/in/rebecca-vincent/" style="text-decoration: none;">LinkedIn</a></p>
+    <a href="https://www.linkedin.com/in/rebecca-vincent/" style="text-decoration: none;">LinkedIn</a> | <a href="mailto:rcvincen@uw.edu">rcvincen@uw.edu</a></p>
 </div>
 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
@@ -79,11 +79,9 @@ B.S.  University of Minnesota, Twin Cities 1983
 
 <div style="height:50px;"></div>
 
-<!-- #### UNDERGRADUATE STUDENTS  
-Sebastian Peck  
-McCrae Leith  
-Manoli Tramountanas    
-<div style="height:10px;font-size:10px;">&nbsp;</div> -->
+#### UNDERGRADUATE STUDENTS  
+Andrea Guiley    
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 #### ALUMNI
 <div style="height:10px;"></div>
