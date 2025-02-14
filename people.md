@@ -55,7 +55,7 @@ B.S.  University of Minnesota, Twin Cities 1983
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <h4>Lauren Frank</h4>
     <p>Ph.D. Student<br/> B.S. University of Minnesota, Twin Cities<br/>
-    <a href="https://www.linkedin.com/in/lauren-frank-uw/">LinkedIn</a></p>
+    <a href="https://www.linkedin.com/in/lauren-frank-uw/">LinkedIn</a> |  <a href="mailto:lfrank23@uw.edu">lfrank23@uw.edu</a></p>
   </div>
 </div>
 <!-- New Row -->
