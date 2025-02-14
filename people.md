@@ -17,57 +17,78 @@ Adjunct Professor of Materials Science & Engineering
 EDUCATION  
 Ph.D. University of California, Davis 1989  
 M.S.  University of California, Davis 1985  
-B.S.  University of Minnesota, Minneapolis 1983  
+B.S.  University of Minnesota, Twin Cities 1983  
 
-[LinkedIn](https://www.linkedin.com/in/dt-schwartz/) \| [Twitter](https://twitter.com/dt_schwartz)
+[LinkedIn](https://www.linkedin.com/in/dt-schwartz/) \| [X](https://twitter.com/dt_schwartz)
 
-<div style="height:75px;font-size:25px;">&nbsp;</div>
+<div style="height:50px;font-size:50px;">&nbsp;</div>
 
-<h3><center> GRADUATE STUDENTS  </center></h3>
-{:refdef: style="text-align: center;"}
+<div style="text-align: center;">
+    <h3>POST DOCTORAL</h3>
+    <h4>Rebecca Vincent</h4>
+</div>
 
+<div style="text-align: center;">
+    <p>Postdoctoral Researcher<br/>
+    Ph.D. University of California, Santa Barbara 2023<br/>
+    B.S. Cornell University 2018<br/>
+    Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/lilo-pozzo" style="text-decoration: none;">Prof. Lilo Pozzo</a> and <a href="https://www.me.washington.edu/facultyfinder/jie-xiao" style="text-decoration: none;">Prof. Jie Xiao</a><br/>
+    <a href="https://www.linkedin.com/in/rebecca-vincent/" style="text-decoration: none;">LinkedIn</a></p>
+</div>
 
-<img src="/images/eeggleton.jpg" alt="Erica Eggleton" width="300"/>
-{: refdef}
-<h4><center> Erica E. Eggleton  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Ph.D. candidate<br/>
-B.S. Montana State University<br/>
-<a href="https://www.linkedin.com/in/erica-eggleton/">LinkedIn</a> | 
-<a href="https://twitter.com/EricaEggleton">Twitter</a> |
-<a href="https://github.com/EricaEgg">GitHub</a></center>
-<div style="height:50px;font-size:25px;">&nbsp;</div>
-
-
-<h4><center> Rose Y. Lee  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Ph.D. student<br/>
-B.S. University of New Mexico<br/>
-Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/jun-liu">Prof. Jun Liu</a><br/>
-<a href="https://www.linkedin.com/in/rose-yesl-lee-2938aa194/">LinkedIn</a> | 
-<a href="https://twitter.com/roseyesl_lee">Twitter</a></center>  
-<div style="height:50px;font-size:25px;">&nbsp;</div>  
-
-<h4><center> Yuefan Ji  </center></h4>
-<div style="height:10px;font-size:25px;">&nbsp;</div>
-<center>Ph.D. student<br/>
-B.S. UC Santa Barbara<br/>
-<a href="https://www.linkedin.com/in/yuefan-ji/">LinkedIn</a></center>  
-<div style="height:50px;font-size:25px;">&nbsp;</div>  
-
-#### UNDERGRADUATE STUDENTS  
 <div style="height:25px;font-size:25px;">&nbsp;</div>
-##### Sebastian Peck  
-<div style="height:10px;font-size:10px;">&nbsp;</div>
-##### McCrae Leith 
-<div style="height:10px;font-size:10px;">&nbsp;</div>
-##### Manoli Tramountanas    
-<div style="height:35px;font-size:35px;">&nbsp;</div>
 
+<h3 style="text-align: center;">GRADUATE STUDENTS</h3>
+<div style="display: flex; justify-content: center; gap: 120px; flex-wrap: wrap; text-align: center; width: 100%;">
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Yuefan Ji</h4>
+    <p>Ph.D. Candidate<br/> B.S. University of California, Santa Barbara<br/>
+    <a href="https://www.linkedin.com/in/yuefan-ji/">LinkedIn</a></p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Rose Y. Lee</h4>
+    <p>Ph.D. Student<br/> B.S. University of New Mexico<br/> 
+    Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/jun-liu">Prof. Jun Liu</a><br/>
+    <a href="https://www.linkedin.com/in/rose-yesl-lee-2938aa194/">LinkedIn</a> | 
+    <a href="https://twitter.com/roseyesl_lee">X</a></p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Lauren Frank</h4>
+    <p>Ph.D. Student<br/> B.S. University of Minnesota, Twin Cities<br/>
+    <a href="https://www.linkedin.com/in/lauren-frank-uw/">LinkedIn</a></p>
+  </div>
+</div>
+<!-- New Row -->
+<div style="display: flex; justify-content: center; gap: 120px; flex-wrap: wrap; text-align: center; width: 100%;">
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Sebastian Peck</h4>
+    <p>M.S. Student<br/> B.S. University of Washington<br/>
+    <a href="https://www.linkedin.com/in/sebastian-peck-5a9300192/">LinkedIn</a></p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Elena Toups</h4>
+    <p>M.S. Student<br/> B.S. University of New Orleans<br/>
+    <a href="https://www.linkedin.com/in/elenatoups/">LinkedIn</a></p>
+  </div>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h4>Babita Giri</h4>
+    <p>M.S. Student<br/> B.S. University of Washington<br/>
+    <a href="https://www.linkedin.com/in/babita-giri-a83580253/">LinkedIn</a></p>
+  </div>
+</div>
+
+<div style="height:50px;"></div>
+
+<!-- #### UNDERGRADUATE STUDENTS  
+Sebastian Peck  
+McCrae Leith  
+Manoli Tramountanas    
+<div style="height:10px;font-size:10px;">&nbsp;</div> -->
 
 #### ALUMNI
-
+<div style="height:10px;"></div>
 DOCTORAL  DEGREES   
+[Erica E. Eggleton](https://www.linkedin.com/in/erica-eggleton/) 2022  
 [Linnette Q.R. Teo](https://www.linkedin.com/in/linnette-teo-039b3ba3/) 2022  
 [Victor W. Hu](https://www.linkedin.com/in/victor-hu-52044472/) 2022  
 [Akshay Subramaniam](https://www.linkedin.com/in/akshays46/) 2021  
