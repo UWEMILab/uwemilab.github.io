@@ -43,7 +43,7 @@ B.S.  University of Minnesota, Twin Cities 1983
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <h4>Yuefan Ji</h4>
     <p>Ph.D. Candidate<br/> B.S. University of California, Santa Barbara<br/>
-    <a href="https://www.linkedin.com/in/yuefan-ji/">LinkedIn</a></p>
+    <a href="https://www.linkedin.com/in/yuefan-ji/">LinkedIn</a> | <a href="mailto:yuefan@uw.edu">yuefan@uw.edu</a></p>
   </div>
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <h4>Rose Y. Lee</h4>
@@ -63,7 +63,7 @@ B.S.  University of Minnesota, Twin Cities 1983
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <h4>Sebastian Peck</h4>
     <p>M.S. Student<br/> B.S. University of Washington<br/>
-    <a href="https://www.linkedin.com/in/sebastian-peck-5a9300192/">LinkedIn</a></p>
+    <a href="https://www.linkedin.com/in/sebastian-peck-5a9300192/">LinkedIn</a> |  <a href="mailto:sebpeck@uw.edu">sebpeck@uw.edu</a></p>
   </div>
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <h4>Elena Toups</h4>
@@ -148,4 +148,8 @@ Jian Zhou, Ph.D. NC State (2002)
 Kavita M. Jeerage, Ph.D. University of Washington (2001)  
 [Qiuming Yu](https://www.linkedin.com/in/qiuming-yu-ab919382/), Ph.D. Cornell University (2000)  
 Timothy Johnson, Ph.D. University of Washington (2000)  
-Franco Dinelli, Ph.D. Oxford University (1999)  
+Franco Dinelli, Ph.D. Oxford University (1999) 
+
+UNDERGRADUATES  
+An-Hung Shih (2024)  
+Kamala Katta (2024)  
