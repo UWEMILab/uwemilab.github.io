@@ -5,6 +5,16 @@ feature_image: "https://images.unsplash.com/photo-1495364037436-fed1ba81ad3e?ixl
 feature_text: |
   ## Publications
 ---
+##### 2025
+Y. Ji, M.D. Murbach, D.T. Schwartz, nleis.py: A Nonlinear Electrochemical Impedance Analysis Toolbox. JOSS. (2025), [doi: 10.21105/joss.07424](https://doi.org/10.21105/joss.07424)
+
+##### 2024
+Y. Ji, D.T. Schwartz, Second-Harmonic Nonlinear Electrochemical Impedance Spectroscopy: II. Experimental approach and analysis on lithium-ion battery experiments. J. Electrochem. Soc. (2024),
+[doi: 10.1149/1945-7111/ad2596](https://doi.org/10.1149/1945-7111/ad2596)
+
+##### 2023
+Y. Ji, D.T. Schwartz, Second-Harmonic Nonlinear Electrochemical Impedance Spectroscopy: I. Analytical theory and equivalent circuit representations for planar and porous electrodes. J. Electrochem. Soc. (2023), [doi: 10.1149/1945-7111/ad15ca](https://doi.org/10.1149/1945-7111/ad15ca)
+
 ##### 2022
 Hu, V. W. & Schwartz, D. T., Low Error Estimation of Half-Cell Thermodynamic Parameters from Whole-Cell Li-Ion Battery Experiments: Physics-Based Model Formulation, Experimental Demonstration, and an Open Software Tool. J. Electrochem. Soc. (2022), [doi: 10.1149/1945-7111/ac5a1a/meta](https://iopscience.iop.org/article/10.1149/1945-7111/ac5a1a/meta)
 
