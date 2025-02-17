@@ -34,6 +34,7 @@ B.S.  University of Minnesota, Twin Cities 1983
     B.S. Cornell University 2018<br/>
     Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/lilo-pozzo" style="text-decoration: none;">Prof. Lilo Pozzo</a> and <a href="https://www.me.washington.edu/facultyfinder/jie-xiao" style="text-decoration: none;">Prof. Jie Xiao</a><br/>
     <a href="https://www.linkedin.com/in/rebecca-vincent/" style="text-decoration: none;">LinkedIn</a> | <a href="mailto:rcvincen@uw.edu">rcvincen@uw.edu</a></p>
+    <img src="/images/Rebecca.jpg" alt="Rebecca" width="200"/>
 </div>
 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
