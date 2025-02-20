@@ -120,119 +120,94 @@ feature_text: |
 <div class="gallery-container">
     <button class="arrow" onclick="prevImage()">◀</button>
     <div class="gallery" id="gallery">
-        <!-- Images will be loaded here by JavaScript -->
+        {% for item in site.data.gallery %}
+            {% if item.link %}
+                <a href="{{ item.link }}" target="_blank">
+                    <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %}>
+                </a>
+            {% else %}
+                <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %}>
+            {% endif %}
+            <div class="caption-container {% if forloop.first %}active{% endif %}">
+                {{ item.caption }}
+            </div>
+        {% endfor %}
     </div>
     <button class="arrow" onclick="nextImage()">▶</button>
 </div>
-<div class="dots-container" id="dots-container"></div>
-
+ <div class="dots-container" id="dots-container">
+    {% for item in site.data.gallery %}
+      <div class="dot {% if forloop.first %}active{% endif %}" data-index="{{ forloop.index0 }}"></div>
+    {% endfor %}
+</div>
 <script>
-  let currentIndex = 0;
-  let images = []; // Store image elements
-  let captions = []; // Store caption elements
-  let dotsContainer;
-  let autoSlideInterval;
-  let autoSlideDelay = 8000;
-  let autoSlideTimeout;
-  let galleryDiv;
+// ... (Your existing JavaScript - NO CHANGES NEEDED) ...
+ let currentIndex = 0;
+      let images = document.querySelectorAll('#gallery img'); // Select *existing* images
+      let captions = document.querySelectorAll('#gallery .caption-container');
+      let dotsContainer = document.getElementById('dots-container');
+      let autoSlideInterval;
+      let autoSlideDelay = 8000;
+      let autoSlideTimeout;
 
-    // Fetch and parse the CSV data
-    fetch('/gallery_picture_info.csv')
-        .then(response => response.text())
-        .then(csvData => {
-            const rows = csvData.trim().split('\n').slice(1); // Skip header row
-            rows.forEach(row => {
-                const [image_url, caption, link] = row.split('||').map(item => item.trim().replace(/^"|"$/g, '')); //remove quotes
+      function updateUI(index) {
+          images.forEach(img => img.classList.remove('active'));
+          images[index].classList.add('active');
 
-                const img = document.createElement('img');
-                img.src = image_url;
-                img.alt = caption; // Use caption as alt text
+          captions.forEach(caption => caption.classList.remove('active'));
+          captions[index].classList.add('active');
 
-                 // Create caption element
-                const captionDiv = document.createElement('div');
-                captionDiv.classList.add('caption-container');
-                captionDiv.textContent = caption;
+          const dots = document.querySelectorAll('.dot');
+          dots.forEach(dot => dot.classList.remove('active'));
+          dots[index].classList.add('active');
+      }
 
 
-                // Wrap in link if provided
-                if (link) {
-                    const a = document.createElement('a');
-                    a.href = link;
-                    a.target = "_blank";
-                    a.appendChild(img);
-                    galleryDiv.appendChild(a); // Add the <a> to the gallery
-                 } else {
-                    galleryDiv.appendChild(img);
-                }
-                galleryDiv.appendChild(captionDiv);
-                images.push(img);
-                captions.push(captionDiv);
-            });
+      function showImage(index) {
+         updateUI(index);
+         currentIndex = index;
+       }
 
-            // Now that images are loaded, initialize
-            dotsContainer = document.getElementById('dots-container');
-            images.forEach((_, index) => {
-                const dot = document.createElement('div');
-                dot.classList.add('dot');
-                dot.addEventListener('click', () => {
-                    showImage(index);
-                    resetAutoSlide();
-                });
-                dotsContainer.appendChild(dot);
-            });
-           showImage(0); // Show first image
-           startAutoSlide();
-        });
-
-    galleryDiv = document.getElementById('gallery');
-
-
-    function updateUI(index) {
-        // Update images
-        images.forEach(img => img.classList.remove('active'));
-        images[index].classList.add('active');
-
-        // Update captions
-        captions.forEach(caption => caption.classList.remove('active'));
-        captions[index].classList.add('active');
-
-        // Update dots
-        const dots = document.querySelectorAll('.dot'); // Get dots *inside* updateUI
-        dots.forEach(dot => dot.classList.remove('active'));
-        dots[index].classList.add('active');
-    }
-
-    function showImage(index) {
-        updateUI(index)
-        currentIndex = index;
-    }
-
-  function nextImage() {
-      currentIndex = (currentIndex + 1) % images.length;
-      showImage(currentIndex);
-      resetAutoSlide();
-  }
-
-  function prevImage() {
-      currentIndex = (currentIndex - 1 + images.length) % images.length;
-      showImage(currentIndex);
-      resetAutoSlide();
-  }
-
-  function startAutoSlide() {
-      autoSlideInterval = setInterval(() => {
+      function nextImage() {
           currentIndex = (currentIndex + 1) % images.length;
           showImage(currentIndex);
-      }, 5025);
-  }
+          resetAutoSlide();
+      }
 
-  function resetAutoSlide() {
-      clearInterval(autoSlideInterval);
-      clearTimeout(autoSlideTimeout);
-      autoSlideTimeout = setTimeout(startAutoSlide, autoSlideDelay);
-  }
+      function prevImage() {
+          currentIndex = (currentIndex - 1 + images.length) % images.length;
+          showImage(currentIndex);
+          resetAutoSlide();
+      }
+
+      function startAutoSlide() {
+        autoSlideInterval = setInterval(() => {
+          currentIndex = (currentIndex + 1) % images.length;
+            showImage(currentIndex);
+        }, 5025);
+      }
+
+      function resetAutoSlide() {
+          clearInterval(autoSlideInterval);
+          clearTimeout(autoSlideTimeout);
+          autoSlideTimeout = setTimeout(startAutoSlide, autoSlideDelay);
+      }
+
+
+    //  Set up click handlers for dots *after* they're created by Jekyll.
+    document.querySelectorAll('.dot').forEach((dot, index) => {
+        dot.addEventListener('click', () => {
+          showImage(index);
+          resetAutoSlide();
+        });
+      });
+
+
+      showImage(0); // Show the first image.
+      startAutoSlide(); // Start the autoslide.
 </script>
 
-### Previous Events
+## Previous Events
 #### 2025 -
+To be updated.
 <br>
