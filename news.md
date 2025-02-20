@@ -137,7 +137,7 @@ feature_text: |
   let galleryDiv;
 
     // Fetch and parse the CSV data
-    fetch('/gallery_picture_info.csv')
+    fetch('/gallery_picture_info.csv?v=' + Date.now())
         .then(response => response.text())
         .then(csvData => {
             const rows = csvData.trim().split('\n').slice(1); // Skip header row
