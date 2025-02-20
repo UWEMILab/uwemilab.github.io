@@ -6,6 +6,8 @@ feature_image: "https://images.unsplash.com/photo-1561404075-6151fbe7e8db?ixlib=
 feature_text: |
   ## News
 ---
+### To be updated soon.  
+<!---
 <style>
 /* Only target elements within the .gallery-container */
 .gallery-container {
@@ -211,3 +213,4 @@ feature_text: |
 #### 2025 -
 To be updated.
 <br>
+-->
