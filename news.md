@@ -1,13 +1,11 @@
 ---
-title: "Annoucements"
+title: "Announcements"
 layout: page
 logo: logo.jpg
 feature_image: "https://images.unsplash.com/photo-1561404075-6151fbe7e8db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
 feature_text: |
   ## News
 ---
-### To be updated soon.  
-<!---
 <style>
 /* Only target elements within the .gallery-container */
 .gallery-container {
@@ -28,14 +26,16 @@ feature_text: |
     border-radius: 10px;
 }
 
+/*  Use loading="lazy" for HUGE performance boost */
 .gallery-container .gallery img {
     position: absolute;
     width: 100%;
     height: 100%;
     object-fit: cover;
     opacity: 0;
-    transition: opacity 1s ease-in-out;
+    transition: opacity 0.5s ease-in-out; /* Shorter transition */
     display: none; /* Hide by default */
+    loading: lazy;  /*  <---  KEY CHANGE HERE */
 }
 
 .gallery-container .gallery img.active {
@@ -125,10 +125,10 @@ feature_text: |
         {% for item in site.data.gallery %}
             {% if item.link %}
                 <a href="{{ item.link }}" target="_blank">
-                    <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %}>
+                    <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %} loading="lazy">  <!-- Add loading="lazy" here too -->
                 </a>
             {% else %}
-                <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %}>
+                <img src="{{ item.image_url }}" alt="{{ item.caption }}" {% if forloop.first %}class="active"{% endif %} loading="lazy">  <!-- Add loading="lazy" here -->
             {% endif %}
             <div class="caption-container {% if forloop.first %}active{% endif %}">
                 {{ item.caption }}
@@ -213,4 +213,3 @@ feature_text: |
 #### 2025 -
 To be updated.
 <br>
--->
