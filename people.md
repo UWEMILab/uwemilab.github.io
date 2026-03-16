@@ -23,20 +23,6 @@ B.S.  University of Minnesota, Twin Cities 1983
 
 <div style="height:50px;font-size:50px;">&nbsp;</div>
 
-<div style="text-align: center;">
-    <h3>POSTDOCTORAL</h3>
-    <h4>Rebecca Vincent</h4>
-</div>
-
-<div style="text-align: center;">
-    <p>Postdoctoral Researcher<br/>
-    Ph.D. University of California, Santa Barbara 2023<br/>
-    B.S. Cornell University 2018<br/>
-    Co-Advised with <a href="https://www.cheme.washington.edu/facultyfinder/lilo-pozzo" style="text-decoration: none;">Prof. Lilo Pozzo</a> and <a href="https://www.me.washington.edu/facultyfinder/jie-xiao" style="text-decoration: none;">Prof. Jie Xiao</a><br/>
-    <a href="https://www.linkedin.com/in/rebecca-vincent/" style="text-decoration: none;">LinkedIn</a> | <a href="mailto:rcvincen@uw.edu">rcvincen@uw.edu</a></p>
-    <img src="/images/Rebecca.jpg" alt="Rebecca" width="200"/>
-</div>
-
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <h3 style="text-align: center;">GRADUATE STUDENTS</h3>
@@ -52,20 +38,6 @@ B.S.  University of Minnesota, Twin Cities 1983
     <h4>Lauren Frank</h4>
     <p>Ph.D. Student<br/> B.S. University of Minnesota, Twin Cities<br/>
     <a href="https://www.linkedin.com/in/lauren-frank-uw/">LinkedIn</a> |  <a href="mailto:lfrank23@uw.edu">lfrank23@uw.edu</a></p>
-  </div>
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <h4>Sebastian Peck</h4>
-    <p>Ph.D. Student<br/> B.S. University of Washington<br/>
-    <a href="https://www.linkedin.com/in/sebastian-peck-5a9300192/">LinkedIn</a> |  <a href="mailto:sebpeck@uw.edu">sebpeck@uw.edu</a></p>
-  </div>
-</div>
-
-<!-- New Row -->
-<div style="display: flex; justify-content: center; gap: 120px; flex-wrap: wrap; text-align: center; width: 100%;">
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <h4>Elena Toups</h4>
-    <p>Ph.D. Student<br/> B.S. University of New Orleans<br/>
-    <a href="https://www.linkedin.com/in/elenatoups/">LinkedIn</a></p>
   </div>
 </div>
 
@@ -114,6 +86,8 @@ Scott M. Haight 1997
 J. Antonio Medina 1996     
 
 MASTERS  DEGREES  
+[Sebastian Peck](https://www.linkedin.com/in/sebastian-peck-5a9300192/) 2025  
+[Elena Toups](https://www.linkedin.com/in/elenatoups/) 2025  
 [Babita Giri](https://www.linkedin.com/in/babita-giri-a83580253/) 2025  
 [Mihyun Kim](https://www.linkedin.com/in/mihyun-kim-2017/) 2020  
 [Baochen Li](https://www.linkedin.com/in/baochen-li-4aba41171/) 2019  
@@ -133,6 +107,7 @@ Derek X. Christiansen 1995
 
 
 POSTDOCTORAL  
+[Rebecca Vincent](https://www.linkedin.com/in/rebecca-vincent/), Ph.D. University of California, Santa Barbara (2025)  
 [IkechuKwu Nwaneshiudu](https://www.linkedin.com/in/ikechukwu-nwaneshiudu-3b3b5857/), Ph.D. U.W. (2014)  
 [Sathana Kitayaporn](https://www.linkedin.com/in/sathana-kitayaporn-274b2419/), Ph.D. U.W. (2011)  
 [Carolynn Grosh](https://www.linkedin.com/in/carolynngrosh/), Ph.D. U.W. (2011)  
